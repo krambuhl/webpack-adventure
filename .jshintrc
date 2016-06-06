@@ -1,0 +1,7 @@
+{
+  "undef": true,
+  "unused": true,
+  "predef": ["process", "require", "module", "exports", "__dirname"],
+  "quotmark": "single",
+  "esversion": 6
+}

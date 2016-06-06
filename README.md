@@ -1,2 +1,3 @@
 # webpack-adventure
-Let's go a packing'
+
+Let's go a packin
